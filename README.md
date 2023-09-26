@@ -5,9 +5,8 @@ ALGORITHM
 
 Artificial Intelligence
 
-**Group leader: Zia Ur Rehman**
 
-**MEMBERS: NOOR NABI AND  SHAHRUKH KHAN**
+**MEMBERS: Wareesha Habib & Zia Ur Rehman
 
 ## **Abstract** 
 
